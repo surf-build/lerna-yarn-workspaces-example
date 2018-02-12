@@ -1,0 +1,6 @@
+{
+  "projects": [
+    "packages/x-cli",
+    "packages/x-core"
+  ]
+}
